@@ -35,10 +35,10 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-##Some images of porjects
-![img 1](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
-![img 2](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
-![img 3](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
-![img 4](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
-![img 5](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
-![img 6](https://github.com/CODEPANDA-1122/Sales_Analysis/blob/main/sales.png)
+## Some images of porjects
+![img 1](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%201.png)
+![img 2](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%202.png)
+![img 3](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%203.png)
+![img 4](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%204.png)
+![img 5](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%205.png)
+![img 6](https://github.com/CODEPANDA-1122/Sales_Analysis_Data_Analytics/blob/main/img%206.png)
